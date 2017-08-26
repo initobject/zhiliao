@@ -34,6 +34,11 @@ import com.czy.zhiliao.Utility.Constant;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 作者： chenZY
+ * 时间： 2017/8/26 16:01
+ * 描述： https://github.com/leavesC
+ */
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     private DrawerLayout drawerLayout;
